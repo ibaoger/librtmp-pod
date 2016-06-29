@@ -9,12 +9,12 @@
 
 Pod::Spec.new do |s|
   s.name             = "librtmp-pod"
-  s.version          = "1.0.0"
+  s.version          = "1.0.1"
   s.summary          = "librtmp-pod is a RTMP client library."
-  s.homepage         = "http://hutte.zhanqi.tv:82/common/librtmp"
+  s.homepage         = "https://github.com/shishuo365/librtmp-pod"
   s.license          = 'LGPL'
-  s.author           = { "shishuo" => "shishuo@bianfeng.com" }
-  s.source           = { :git => "http://hutte.zhanqi.tv:82/common/librtmp.git", :tag => "v#{s.version}" }
+  s.author           = { "shishuo" => "shishuo365@126.com" }
+  s.source           = { :git => "https://github.com/shishuo365/librtmp-pod.git", :tag => "v#{s.version}" }
 
   s.platform     = :ios, '7.0'
   s.requires_arc = true
