@@ -9,7 +9,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "librtmp-pod"
-  s.version          = "1.0.2"
+  s.version          = "1.0.3"
   s.summary          = "librtmp-pod is a RTMP client library."
   s.homepage         = "https://github.com/shishuo365/librtmp-pod"
   s.license          = 'LGPL'
