@@ -1,1 +1,1 @@
-# librtmp
+# librtmp for iOS cocoapods
